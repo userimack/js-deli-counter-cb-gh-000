@@ -23,5 +23,5 @@ function currentLine(katzDeliLine) {
     }
     newString += string.join(", ", array);
     return newString;
-  } 
+  }
 }
